@@ -1,8 +1,8 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 import App from "./App";
-import { ErrorBoundary } from "react-error-boundary";
 import ErrorFallback from "./ui/ErrorFallback";
+import { ErrorBoundary } from "react-error-boundary";
 
 createRoot(document.getElementById("root")).render(
   <React.StrictMode>
