@@ -30,4 +30,4 @@ To login, use the following credentials:
 - 🎨 **Styled Components:** Provides UI styling, including dark mode.
 - 🖼️ **Heroicons:** Enhances the UI with modern icons.
 
-<h2 align="left">This app was developed as part of the Udemy course by Jonas Schmedtmann. Special thanks to Jonas for guidance throughout the course.</h2>
+This app was developed as part of the Udemy course by Jonas Schmedtmann. Special thanks to Jonas for guidance throughout the course.
