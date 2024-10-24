@@ -1,15 +1,18 @@
 <h2 align="center">Welcome to The Wild Oasis! 🌴🏨</h2>
 
-![Wild Oasis Banner](public/appImage.png)
+![Wild Oasis Banner](public/githubImg.jpg)
 
 This hotel management web app allows employees to manage cabins, bookings, and guests efficiently. It integrates Supabase for the backend and leverages advanced React patterns.
 
 ## Login Credentials
+
 To login, use the following credentials:
+
 - **Username**: `tawfik@example.com`
 - **Password**: `passwordpassword`
 
 ## Features
+
 - ✨ User authentication restricts access to hotel employees only.
 - 👤 Employees can manage profiles, upload avatars, and change passwords.
 - 🏠 Manage cabins with options to create, update, or delete records.
@@ -20,6 +23,7 @@ To login, use the following credentials:
 - 🌙 Dark mode for a personalized user experience.
 
 ## Tech
+
 - ⚙️ **Vite:** Supports the development environment and build system.
 - ⚛️ **React:** Powers the frontend.
 - ☁️ **Supabase:** Handles the database and real-time updates.
@@ -29,5 +33,7 @@ To login, use the following credentials:
 - 📉 **Recharts:** Visualizes data with charts and stats.
 - 🎨 **Styled Components:** Provides UI styling, including dark mode.
 - 🖼️ **Heroicons:** Enhances the UI with modern icons.
+
+---
 
 This app was developed as part of the Udemy course by Jonas Schmedtmann. Special thanks to Jonas for guidance throughout the course.
