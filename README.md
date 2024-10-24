@@ -2,6 +2,8 @@
 
 ![Wild Oasis Banner](public/githubImg.jpg)
 
+## Overview
+
 This hotel management web app allows employees to manage cabins, bookings, and guests efficiently. It integrates Supabase for the backend and leverages advanced React patterns.
 
 ## Login Credentials
